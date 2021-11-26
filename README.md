@@ -1,4 +1,4 @@
-# Joseph Lyons
+# Joseph T. Lyons
 
 ## Background
 
