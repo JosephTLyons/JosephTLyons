@@ -15,4 +15,4 @@ Today, the languages I'm most interested in are Python 🐍 and Rust 🦀; these
 - GUI applications
 - Command line applications
 - Automation
-- Open-Source software
+- Open-source software
