@@ -12,7 +12,6 @@ Today, the languages I'm most interested in are Python 🐍 and Rust 🦀; these
 
 ### Interests
 
-- GUI applications
-- Command line applications
+- GUI and command-line applications
 - Automation
 - Open-source software
