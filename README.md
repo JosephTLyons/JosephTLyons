@@ -3,7 +3,7 @@
 ## Background
 
 - Graduated from [Indiana University South Bend](https://www.iusb.edu/) (2015 - 2019)
-- Work as a Django application developer building [PlantStar 4.0](https://www.syscon-intl.com/plantstar) at SYSCON International (2019 - Current)
+- User Ops Specialist at [Zed Industries](https://zed.dev) (2022 - Current)
 - See [my resume](https://github.com/JosephTLyons/Resume) for more detailed background
 
 ## Languages of Focus
